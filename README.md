@@ -3,7 +3,7 @@ Yet another presentation using impress.js
 All the work that I have done is used impress.js to create a
 webpage. It is very simple and intuitive.
 
-You may want to see [my website](nishitm.github.io) to see it in action.
+You may want to see [my website](http://nishitm.github.io) to see it in action.
 You can view the source code for this [here](https://github.com/nishitm/nishitm.github.io/index.html).
 
 
