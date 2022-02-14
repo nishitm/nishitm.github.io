@@ -13,7 +13,6 @@
 <body>
     <div id="sidenav">
         <button id="sidenavBtn">&#9776;</button>
-        <img id="profilePic" alt="An avatar that aims to represent the website owner" src="./img/avatar.png">
     </div>
     <div id="container">
         <div id="output"></div>
